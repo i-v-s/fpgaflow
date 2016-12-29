@@ -1,0 +1,6 @@
+db
+incremental_db
+simulation
+*.bak
+work
+output_files
